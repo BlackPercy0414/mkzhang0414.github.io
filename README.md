@@ -29,6 +29,3 @@ A concise introduction highlighting your expertise, research interests, or caree
 
 ### Projects
 
-  [GitHub](https://github.com/yourusername/deepspeech) | ![Python](https://img.shields.io/badge/-Python-blue)
-- **Image Colorizer** – B&W photo restoration using GANs  
-  [Live Demo](https://your-app.netlify.app) | ![PyTorch](https://img.shields.io/badge/-PyTorch-orange)
